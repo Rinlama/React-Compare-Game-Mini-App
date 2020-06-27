@@ -1,8 +1,14 @@
 import React from "react";
-import Router from "./component/app/router/Router";
+import Navbar from "./component/layout/Navbar";
+import Home from "./component/home/Home";
 
 function App() {
-  return <div>MY APP</div>;
+  return (
+    <div className="container">
+      <Navbar />
+      <Home />
+    </div>
+  );
 }
 
 export default App;
