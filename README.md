@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Mini-Game Survey App
+
+This is mini game survey app where you can pick which game would like and give you little result of survey.
 
 ## Available Scripts
 
